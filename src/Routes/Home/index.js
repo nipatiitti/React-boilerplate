@@ -19,6 +19,7 @@ class Home extends Component {
 
     render = () => {
         const { weather } = this.props
+
         return (
             <Container>
                 <span>{weather}</span>

@@ -12,7 +12,7 @@ import storage from 'redux-persist/lib/storage'
 import axios from 'axios'
 import axiosMiddleware from 'redux-axios-middleware'
 
-import { rootReducer } from '../Reducers'
+import rootReducer from '../Reducers'
 
 // Create client alias
 // Used in action creators

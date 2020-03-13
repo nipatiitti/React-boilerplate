@@ -6,7 +6,7 @@
         "node": true
     },
     "extends": ["airbnb", "prettier"],
-    "plugins": ["prettier"],
+    "plugins": ["prettier", "react"],
     "rules": {
         "no-tabs": 2,
         "prettier/prettier": ["error"],
@@ -19,6 +19,7 @@
                 "SwitchCase": 1
             }
         ],
-        "react/jsx-indent": [2, 4]
+        "react/jsx-indent": [2, 4],
+        "react/jsx-indent-props": [2, 4]
     }
 }
