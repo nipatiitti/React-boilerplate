@@ -1,5 +1,8 @@
 
 {
   "template": "node",
-  "startScript": "dev"
+  "startScript": "dev",
+  "container": {
+    "port": 8080
+  }
 }
