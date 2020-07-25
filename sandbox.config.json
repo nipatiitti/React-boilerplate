@@ -1,4 +1,5 @@
 
 {
-  "template": "node"
+  "template": "node",
+  "startScript": "dev"
 }
