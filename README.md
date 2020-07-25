@@ -1,8 +1,10 @@
 # My Custom React Boilerplate with all the goodies
 
-[![Build Status](https://travis-ci.org/rwieruch/advanced-react-webpack-babel-setup.svg?branch=master)](https://travis-ci.com/nipatiitti/React-boilerplate.svg?branch=master) [![Greenkeeper badge](https://badges.greenkeeper.io/rwieruch/advanced-react-webpack-babel-setup.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.com/nipatiitti/React-boilerplate.svg?branch=master)](https://travis-ci.com/nipatiitti/React-boilerplate.svg?branch=master)
+[![Known Vulnerabilities](https://snyk.io/test/github/nipatiitti//React-boilerplate/badge.svg)](https://snyk.io/test/github/nipatiitti//React-boilerplate)
 
 Want to try it out?
+
 [![Edit react-boilerplate](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/nipatiitti/React-boilerplate/tree/master/?fontsize=14)
 
 ## Features
